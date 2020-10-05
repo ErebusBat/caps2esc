@@ -1,3 +1,7 @@
+# IMPORTANT
+
+Forked from https://gitlab.com/interception/linux/plugins/caps2esc @ `bb09cd8`
+
 # caps2esc
 
 _Transforming the most useless key **ever** in the most useful one._
